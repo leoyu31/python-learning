@@ -1,0 +1,6 @@
+#添加Anaconda对应的环境变量
+
+path：
+x:\Anaconda3
+x:\Anaconda3\Scripts
+x:\Anaconda3\Library\bin
